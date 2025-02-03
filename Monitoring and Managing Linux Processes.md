@@ -165,5 +165,3 @@ Apply your knowledge to monitor and manage processes on a Linux system.
 2. Start a long-running process in the background and monitor it using `top`.
 3. Terminate an unresponsive process using `kill`.
 4. Use `htop` to analyze system performance and resource usage.
-
-Feel free to ask if you have any questions or need further clarification on any of these topics!
