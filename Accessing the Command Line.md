@@ -1,4 +1,6 @@
-### Accessing the Command Line Using the Local Console
+<h1 align=center> Accessing the Command Line Using the Local Console </h1>
+<br>
+
 1. **Introduction**: The local console is a direct way to interact with your Linux system.
 2. **Steps**:
    - **Boot your system** and wait for the login prompt.
