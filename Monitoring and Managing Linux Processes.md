@@ -145,23 +145,4 @@ Monitoring process activity helps you understand system performance and resource
    1  0      0 1024000  512000  512000    0    0     0     0  100  200  0  0 100  0  0
   ```
 
-**Practice: Monitoring Process Activity**
 
-**Objective**:  
-Learn to monitor and analyze process activity on your system.
-
-**Tasks**:  
-1. Use `top` or `htop` to monitor processes.
-2. Analyze CPU and memory usage of processes.
-3. Use `vmstat` to report virtual memory statistics.
-
-**Lab: Monitoring and Managing Linux Processes**
-
-**Objective**:  
-Apply your knowledge to monitor and manage processes on a Linux system.
-
-**Tasks**:  
-1. Open a terminal and list all running processes using `ps`.
-2. Start a long-running process in the background and monitor it using `top`.
-3. Terminate an unresponsive process using `kill`.
-4. Use `htop` to analyze system performance and resource usage.
