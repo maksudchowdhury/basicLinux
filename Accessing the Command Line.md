@@ -1,4 +1,4 @@
-<h2 align=center> Accessing the Command Line Using the Local Console </h2>
+<h3 align=center> Accessing the Command Line Using the Local Console </h3>
 <br>
 
 1. **Introduction**: The local console is a direct way to interact with your Linux system.
