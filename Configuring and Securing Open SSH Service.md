@@ -57,7 +57,8 @@ Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
 Your identification has been saved in /home/username/.ssh/id_rsa.
 Your public key has been saved in /home/username/.ssh/id_rsa.pub.
-``#### Copying the Public Key to the Remote Machine
+````
+#### Copying the Public Key to the Remote Machine
 
 To copy the public key to the remote machine, use the following command:
 
