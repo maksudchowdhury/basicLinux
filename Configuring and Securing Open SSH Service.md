@@ -213,7 +213,10 @@ sudo nano /etc/ssh/sshd_config
 # ListenAddress ::
 ```
 
-####2
+#### Step 4: Change the Default SSH Port
+
+```bash
+Port 2222
 ```
 
 #### Step 5: Disable Root Login
