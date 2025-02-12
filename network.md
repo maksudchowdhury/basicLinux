@@ -284,8 +284,6 @@ Network configuration files store settings for network interfaces. In Red Hat-ba
   ```bash
   sudo hostnamectl set-hostname myhostname
   ```
-  ```
-  ```
 
 - **Permanently Setting the Hostname:**
   ```bash
