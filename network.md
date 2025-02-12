@@ -236,18 +236,11 @@ Network configuration files store settings for network interfaces. In Red Hat-ba
   ```
   DEVICE=eth0
   BOOTPROTO=static
-  IPADDR=192.168
-  
-  
-  
- 
- ```
-  DEVICE=eth0
-  BOOTPROTO=static
   IPADDR=192.168.1.10
   NETMASK=255.255.255.0
   GATEWAY=192.168.1.1
   ```
+  
 
 **Applying Changes and Restarting Network Services**
 
