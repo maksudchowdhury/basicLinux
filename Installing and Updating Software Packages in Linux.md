@@ -364,4 +364,3 @@ tar: Removing leading '/' from member names
 /path/to/directory/file2
 ```
 
-This concludes the detailed explanation of installing and updating software packages on Red Hat-based systems.
